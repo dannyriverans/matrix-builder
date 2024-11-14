@@ -36,5 +36,3 @@ export const matrix = [
     { color: "#1976D2", label: "Eliminated", value: 24 },
   ],
 ];
-
-export default matrix;
